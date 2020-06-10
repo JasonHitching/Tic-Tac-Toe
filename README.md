@@ -1,9 +1,10 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
 
 Artefact developed as a result of following along with [React's official tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ## Usage
 
+npm start
 
 ## Built With
 
